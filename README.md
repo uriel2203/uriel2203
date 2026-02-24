@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'am still learnings
+I'am still learning in coding
 
 
 ## 🌐 Socials:
