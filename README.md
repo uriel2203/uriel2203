@@ -1,6 +1,7 @@
 # 💫 About Me:
 I'am still learning in coding
 
+![Profile Views](https://komarev.com/ghpvc/?username=uriel2203&color=blue)
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:urieljohnchavez@gmail.com) 
